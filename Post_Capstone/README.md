@@ -1,10 +1,9 @@
 # post_capstone
 
-1. UNITY 3D_tutorial
+1. UNITY 3D_Tutorial
 
-https://github.com/21600053/post_capstone/blob/main/UNITYT_tutorial.MD
+2. DeepRacer_Tutorial
 
-2. DeepRacer tutorial
+3. Presentation Video
 
-https://github.com/juho98/Postcapstone_unity3D-DeepRacer
-
+   https://www.youtube.com/watch?v=10BTBinHHnM
