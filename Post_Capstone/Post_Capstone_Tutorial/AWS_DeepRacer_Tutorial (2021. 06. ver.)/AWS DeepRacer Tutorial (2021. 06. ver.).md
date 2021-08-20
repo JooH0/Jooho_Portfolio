@@ -8,19 +8,19 @@ https://console.aws.amazon.com/deepracer/home?region=us-east-1#welcome
 
 **1. You can see the AWS DeepRacer homepage through the link above.**
 
-![image-20210625165231103](https://user-images.githubusercontent.com/84532778/123618695-67c05b00-d843-11eb-8e5d-7ec789efd4df.png)
+![AWS1](https://user-images.githubusercontent.com/84532778/130181439-60155ace-bd4b-4193-94e1-35f66ae7dd3b.png)
 
 
 
 **2. Click on the banner on the left side of the window.**
 
-![image-20210625165618410](https://user-images.githubusercontent.com/84532778/123618700-6858f180-d843-11eb-9f19-24fb8df447a5.png)
+![AWS2](https://user-images.githubusercontent.com/84532778/130181442-dc9a6026-7e68-44cc-95b8-f75968115d10.png)
 
 
 
 **3. You can see several menus for reinforcement Learning.**
 
-![image-20210625180006872](https://user-images.githubusercontent.com/84532778/123618714-6b53e200-d843-11eb-9077-47973c748187.png)
+![AWS3](https://user-images.githubusercontent.com/84532778/130181443-ec35d252-9dfc-4ba3-bf39-e456ade34e01.png)
 
 ---
 
@@ -38,7 +38,7 @@ https://console.aws.amazon.com/deepracer/home?region=us-east-1#welcome
 
 **1. Click the "Get started" for creating your custom model**
 
-![image-20210625180145025](https://user-images.githubusercontent.com/84532778/123618716-6bec7880-d843-11eb-9b4a-c73482b5c8f2.png)
+![AWS4](https://user-images.githubusercontent.com/84532778/130181447-5304b422-02c1-4eed-bc6b-76a0fb3f57c1.png)
 
 ---
 
@@ -52,7 +52,7 @@ https://console.aws.amazon.com/deepracer/home?region=us-east-1#welcome
 
 Enter the name of your model.
 
-![image-20210625181544680](https://user-images.githubusercontent.com/84532778/123618723-6db63c00-d843-11eb-8435-3c78cdc4cf10.png)
+![AWS5](https://user-images.githubusercontent.com/84532778/130181448-848b9d99-9425-475d-ae9a-92452e0f82c2.png)
 
 ---
 
@@ -60,11 +60,11 @@ Enter the name of your model.
 
 **3. Choose a course you want to simulate.**
 
-![image-20210625182043051](https://user-images.githubusercontent.com/84532778/123618726-6e4ed280-d843-11eb-9378-9d25fd7ffe65.png)
+![AWS6](https://user-images.githubusercontent.com/84532778/130181451-4eb4dec6-2f99-4f9c-86ca-71cebedf4916.png)
 
 **If you try training for the first time, "Oval Track" is recommended.**
 
-![image-20210625182540680](https://user-images.githubusercontent.com/84532778/123618731-6ee76900-d843-11eb-894f-e1043798ab58.png)
+![AWS7](https://user-images.githubusercontent.com/84532778/130181452-6cb8ebdf-24df-4936-89f5-6551d1b08c87.png)
 
 ---
 
@@ -72,7 +72,7 @@ Enter the name of your model.
 
 **4. Race type & Training algorithm**
 
-![image-20210625183758381](https://user-images.githubusercontent.com/84532778/123618745-7149c300-d843-11eb-92b9-556ea67a4167.png)
+![AWS8](https://user-images.githubusercontent.com/84532778/130181454-8e054d7b-adfd-47aa-9bf3-bd9b42a78c13.png)
 
 ___
 
@@ -94,13 +94,13 @@ https://docs.aws.amazon.com/deepracer/latest/developerguide/deepracer-how-it-wor
 
 **5. Agent** (Choose a vehicle you have.)
 
-![image-20210625183850343](https://user-images.githubusercontent.com/84532778/123618756-73138680-d843-11eb-9494-f76554ea7a81.png)
+![AWS9](https://user-images.githubusercontent.com/84532778/130181457-cdf6d1af-8743-4788-a7bb-b87929431b9e.png)
 
 
 
 **6. Reward function**
 
-![image-20210625184330224](https://user-images.githubusercontent.com/84532778/123618764-7444b380-d843-11eb-91dd-5012b5db2f56.png)
+![AWS10](https://user-images.githubusercontent.com/84532778/130181460-e54c04c8-c31c-4844-abb0-50f297732a01.png)
 
 ---
 
@@ -122,7 +122,7 @@ https://docs.aws.amazon.com/deepracer/latest/developerguide/deepracer-reward-fun
 
 you can set "Maximum time" for stop conditions.
 
-![image-20210625185250983](https://user-images.githubusercontent.com/84532778/123618773-76a70d80-d843-11eb-8a0f-41dfc1c3fdb2.png)
+![AWS11](https://user-images.githubusercontent.com/84532778/130181462-5582e724-8134-415b-a590-2176eb540117.png)
 
 ---
 
@@ -130,7 +130,7 @@ you can set "Maximum time" for stop conditions.
 
 ## 3. Train your model & Evaluate.
 
-![image-20210625185641940](https://user-images.githubusercontent.com/84532778/123618777-773fa400-d843-11eb-902a-992425af62d6.png)
+![AWS12](https://user-images.githubusercontent.com/84532778/130181463-ae690abc-5868-4914-be80-c16554f518a9.png)
 
 You can see this screen if you've followed the steps well. It takes time to create a model.
 
@@ -142,7 +142,7 @@ Training will start automatically when the initialization is complete.
 
 **1. Training monitor**
 
-![image-20210625190426294](https://user-images.githubusercontent.com/84532778/123618782-77d83a80-d843-11eb-88f6-ef0a14d50c27.png)
+![AWS13](https://user-images.githubusercontent.com/84532778/130181466-39187499-d0d1-473b-8c8e-ff2930f7caee.png)
 
 ---
 
@@ -164,7 +164,7 @@ You can judge whether the model is well trained and stop training early through 
 
 if your model have finished training, you can evaluate the model.
 
-![image-20210625191410043](https://user-images.githubusercontent.com/84532778/123618784-79096780-d843-11eb-857c-61d02c1310be.png)
+![AWS14](https://user-images.githubusercontent.com/84532778/130181470-b3174f1f-0b21-466f-be59-258208b07ac2.png)
 
 ---
 
@@ -176,7 +176,7 @@ Click "Download phsical car model" to download your trained weight file.
 
 The trained model can be applied to real DeepRacer.
 
-![image-20210625192325393](https://user-images.githubusercontent.com/84532778/123618790-7a3a9480-d843-11eb-8f16-7d3d0055d55e.png)
+![AWS15](https://user-images.githubusercontent.com/84532778/130181472-7b1569ef-0ac4-4c54-a880-a33e6bbf8ba6.png)
 
 
 
@@ -184,13 +184,13 @@ The trained model can be applied to real DeepRacer.
 
 Look at the bottom of your vehicle and make note of the password printed under Host name. You'll need it to log in to the device control console to perform the setup.
 
-![DeepRacer_password](https://user-images.githubusercontent.com/84532778/123619297-01880800-d844-11eb-9652-d3475bae7073.jpg)
+![AWS16](https://user-images.githubusercontent.com/84532778/130181475-729afd5d-08b0-457d-a5e6-71c26f9c5a48.jpg)
 
 
 
 On your computer, go to https://deepracer.aws to launch the device control console of your vehicle.
 
-![AWS_login_page](https://user-images.githubusercontent.com/84532778/123619277-fd5bea80-d843-11eb-8c68-28542225e478.png)
+![AWS17](https://user-images.githubusercontent.com/84532778/130181476-6510fd31-2a19-479a-9fc8-b32d163534e1.png)
 
 When prompted with a message that the connection is not private or secure, do one of the following. In Chrome, choose Avanced and then choose Proceed to `<device_console_ip_address> (unsafe)`.
 
@@ -202,9 +202,7 @@ Note the IP address shown under Wi-Fi network details. You'll need it to open th
 
 
 
-
-
-![Control_vehicle](https://user-images.githubusercontent.com/84532778/123619291-0056db00-d844-11eb-9c6d-66831c66ec2e.png)
+![AWS18](https://user-images.githubusercontent.com/84532778/130181477-ee7059ae-56ed-4585-a15e-0739fe01412f.png)
 
 When the connection is complete, the following DeepRacer main console window opens. On this screen, you can upload the model trained on the AWS website. You can also use commands to directly control the vehicle.
 
@@ -212,25 +210,21 @@ When the connection is complete, the following DeepRacer main console window ope
 
 ## 6. Calibration the DeepRacer
 
-
-
 To calibrate the vehicle, click Calibration in the picture above.
 
-![Calibration_main](https://user-images.githubusercontent.com/84532778/123619289-ffbe4480-d843-11eb-9f9a-5676c408b3fc.png)
+![AWS19](https://user-images.githubusercontent.com/84532778/130181479-9a56f3f0-eae7-419d-9f73-94e5f9d3ff69.png)
 
 
 
 Calibration can be done in two ways: speed and steering.
 
-
-
-![Calibrate_steer](https://user-images.githubusercontent.com/84532778/123619285-ff25ae00-d843-11eb-943b-a04827dcb2f2.png)
+![AWS20](https://user-images.githubusercontent.com/84532778/130181480-5d769c1c-b78a-4057-b9e6-ff9160a49400.png)
 
 * ​	Screen to calibrate the steering
 
 
 
-![Calibrate_Speed](https://user-images.githubusercontent.com/84532778/123619282-fe8d1780-d843-11eb-83ce-a70acbbefd6e.png)
+![AWS21](https://user-images.githubusercontent.com/84532778/130181481-297deadb-5a25-4669-815b-482349a03377.png)
 
 * Screen to calibrate the speed
 
