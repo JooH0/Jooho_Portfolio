@@ -10,17 +10,17 @@ You can download Unity-3D at this link.
 
 https://store.unity.com/kr/download-nuo
 
-![1](C:\Users\rlawn\OneDrive\바탕 화면\typora-user-images\1.png)
+![unity1](https://user-images.githubusercontent.com/84532778/130171766-47b09295-04a5-421d-9b34-7ce8ab42ccd9.png)
 
 ---
 
 **Follow several processes for downloading.**
 
-![5](C:\Users\rlawn\OneDrive\바탕 화면\typora-user-images\5.PNG)
+![unity2](https://user-images.githubusercontent.com/84532778/130171772-21739d33-368c-402f-b747-143a7387533e.PNG)
 
 ---
 
-![4](C:\Users\rlawn\OneDrive\바탕 화면\typora-user-images\4.PNG)
+![unity3](https://user-images.githubusercontent.com/84532778/130171775-a2c1457d-51ea-45be-ab41-23096a443c25.png)
 
 After downloading, run Unity Hub and you can see the screen below.
 
@@ -28,7 +28,7 @@ After downloading, run Unity Hub and you can see the screen below.
 
 **You can create project using unity hub.**
 
-![image-20210625171136294](C:\Users\rlawn\OneDrive\바탕 화면\typora-user-images\image-20210625171136294.png)
+![unity4](https://user-images.githubusercontent.com/84532778/130171777-ffd66bbe-671c-4d04-b64a-840a7318458b.png)
 
 ---
 
@@ -36,11 +36,11 @@ you should create  a project for 3D template.
 
 Set the project name and storage location.
 
-![11](C:\Users\rlawn\OneDrive\바탕 화면\typora-user-images\11.PNG)
+![unity5](https://user-images.githubusercontent.com/84532778/130171779-c3d30159-1e04-4fcf-9902-8dc5aac14775.PNG)
 
 When you create a project, you can see the same screen as the picture below.
 
-![image-20210625172623109](https://user-images.githubusercontent.com/59379790/123419092-ccd24180-d5f4-11eb-9053-666bdfb14356.png)
+![unity6](https://user-images.githubusercontent.com/84532778/130171781-be6c3a2b-d435-4cf9-bcdb-0c4e27a15ab5.png)
 
 ---
 
@@ -56,7 +56,7 @@ you can download the "ML-Agent-Release 8" file from the link above.
 
 (Storage location is not important.)
 
-![6](C:\Users\rlawn\OneDrive\바탕 화면\typora-user-images\6.png)
+![unity7](https://user-images.githubusercontent.com/84532778/130171785-1f7ddc7f-67b9-4b73-bbea-e6373c8ead87.png)
 
 ---
 
@@ -66,21 +66,21 @@ Unzip the downloaded file and run the **package manager** on the Unity screen as
 
 Install the package file using package manager.
 
-![22](C:\Users\rlawn\OneDrive\바탕 화면\typora-user-images\22.png)
+![unity8-2](https://user-images.githubusercontent.com/84532778/130171787-ab1760f0-2940-4bd3-886d-203ef1c5f684.png)
 
-![image-20210625202553317](https://user-images.githubusercontent.com/59379790/123419141-d491e600-d5f4-11eb-8d28-21ca5afaa377.png)
+![unity8-1](https://user-images.githubusercontent.com/84532778/130171786-0a850f0e-09d7-436d-a96f-e7adbd959d10.png)
 
 After that, copy paste the entire **"release8\project\Assets\ML-Agents"** folder to the **"Assets"** folder. 
 
-![set5](C:\Users\rlawn\OneDrive\바탕 화면\typora-user-images\set5.png)
+![unity9](https://user-images.githubusercontent.com/84532778/130171790-417b309f-633b-44bf-8e81-629b87445a47.png)
 
 ## 4.  Set virtual environment (using Anaconda)
 
-**Use Python-api for learning with ML-Agents and install Python 3.7 in a new virtual environment for version compatibility. In the release folder, type ‘‘pip3 install -e ./ml-agents-envs’, ’pip install -e ./ML-Agents’ to install various pips, such as tensorflow, numpy, etc.**
+**Use Python-Api for learning with ML-Agents and install Python 3.7 in a new virtual environment for version compatibility. In the release folder, type ‘‘pip3 install -e ./ml-agents-envs’, ’pip install -e ./ML-Agents’ to install various pips, such as tensorflow, numpy, etc.**
 
-![image-20210625172745218](https://user-images.githubusercontent.com/59379790/123419094-ccd24180-d5f4-11eb-9539-3e60d9ed762a.png)
+![unity10](https://user-images.githubusercontent.com/84532778/130171791-eb66d576-3525-465b-a284-3f3496253ebf.png)
 
-![image-20210625201159121](https://user-images.githubusercontent.com/59379790/123419136-d3f94f80-d5f4-11eb-9cc3-c292dac5332b.png)
+![unity11](https://user-images.githubusercontent.com/84532778/130171793-40c0ebe8-40f6-4c83-ae18-1bd3eff6c31b.png)
 
 
 ```anaconda prompt
@@ -98,7 +98,7 @@ pip install -e ./ML-Agents
 
 To create an environment in earnest, new scenes were created in the project, creating plane objects to be used as track in the Hierarchy. 
 
-![image-20210625174313890](https://user-images.githubusercontent.com/59379790/123419098-ce036e80-d5f4-11eb-95e7-4867896b6889.png)
+![unity12](https://user-images.githubusercontent.com/84532778/130171799-6ad63137-4967-4ec7-a0cf-22a989093d62.png)
 
 
 
@@ -106,7 +106,7 @@ Drag and drop the **track image file** on the generated plane and resize it.
 
 (you can apply other images.)
 
-![image-20210625174342210](https://user-images.githubusercontent.com/59379790/123419100-ce9c0500-d5f4-11eb-9657-c991c5aa463a.png)
+![unity13](https://user-images.githubusercontent.com/84532778/130171806-b5621fb4-d5f8-4c97-807c-c672a976c237.png)
 
 ---
 
@@ -116,45 +116,45 @@ Since the important thing in driving learning is that the car does not deviate f
 
 Run Package Manager and set the category to "Unity Registry".
 
-![pro1](C:\Users\rlawn\Downloads\images\images\pro1.png)
+![unity14](https://user-images.githubusercontent.com/84532778/130171808-ab2e1114-a964-440a-a5dc-5c001ad8b81c.png)
 
 Search "proBuilder" and install it.
 
-![pro2](C:\Users\rlawn\Downloads\images\images\pro2.png)
+![unity15](https://user-images.githubusercontent.com/84532778/130171809-d3288398-7c4d-4414-af50-5e048cf45c85.png)
 
 After that, you can see "ProBuilder" is created in the tool index.
 
 Click "ProBuilder Window"
 
-![pro3](C:\Users\rlawn\Downloads\images\images\pro3.png)
+![unity16](https://user-images.githubusercontent.com/84532778/130171813-93b8fca9-254b-43d2-9b08-38e5ae87b82e.png)
 
 "Use Icon Mode" helps you understand about the features.
 
-![pro4](C:\Users\rlawn\Downloads\images\images\pro4.png)
+![unity17](https://user-images.githubusercontent.com/84532778/130171817-576f1872-69c0-461a-9dcd-499746774568.png)
 
 Create a virtual wall using "New Polygon Shape".
 
-![pro5](C:\Users\rlawn\Downloads\images\images\pro5.png)
+![unity18](https://user-images.githubusercontent.com/84532778/130171820-0d6ff19a-7010-463c-87ef-e9fae634b2c0.png)
 
 Draw dots using the mouse to make a floor plan.
 
-![pro7](C:\Users\rlawn\Downloads\images\images\pro7.png)
+![unity19](https://user-images.githubusercontent.com/84532778/130171821-419ac64f-1601-451d-b670-93e8440a8794.png)
 
 Drag the green dot upwards to create a 3D shape.
 
-![pro8](C:\Users\rlawn\Downloads\images\images\pro8.png)
+![unity20](https://user-images.githubusercontent.com/84532778/130171823-9206bf20-4f7b-4977-ae4d-c684d491c888.png)
 
 It also creates outer walls in the same way.
 
-![pro9](C:\Users\rlawn\Downloads\images\images\pro9.png)
+![unity21](https://user-images.githubusercontent.com/84532778/130171824-adfd6600-66dd-443a-8327-77f84edee12b.png)
 
 Uncheck "Mesh Renderer" to make it invisible.
 
-![pro10](C:\Users\rlawn\Downloads\images\images\pro10.png)
+![unity22](https://user-images.githubusercontent.com/84532778/130171826-147003ac-73a4-4df8-8f8d-5ed821b8622d.png)
 
 [Result screen]
 
-![pro11](C:\Users\rlawn\Downloads\images\images\pro11.png)
+![unity23](https://user-images.githubusercontent.com/84532778/130171828-b2d84724-ad0a-483f-b621-aabef519611b.png)
 
 
 
@@ -164,15 +164,21 @@ Uncheck "Mesh Renderer" to make it invisible.
 
 The track and environment for the car to drive has been completed, an agent must be set. Import an asset from **unity asset store.** 
 
-When downloading the created car's assets, it is recommended rather than creating your own because the default settings such as car collider, wheel collider, and design are set.
+When downloading the created car's assets, it is recommended rather than creating your own because the default settings such as **car collider**, **wheel collider**, and design are set.
 
 - Unity Asset Store link: https://assetstore.unity.com/?q=low%20poly%20car&orderBy=1
 
 - recommended Asset link: https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
 
-![7](C:\Users\rlawn\OneDrive\바탕 화면\typora-user-images\7.png)
+![unity24](https://user-images.githubusercontent.com/84532778/130171830-e7af1f95-f121-43bd-a4e0-a1195759838d.png)
 
+![unity24-0](https://user-images.githubusercontent.com/84532778/130171832-6728f130-b32c-43d0-b7f4-b96cc36b8ba0.png)
 
+<Tip!>
+
+If you want to use visual studio as a coding program, you can change it from the settings as below.![unity24-1](https://user-images.githubusercontent.com/84532778/130171834-f5a1b97b-18b6-49b7-a302-c3a7464bdcce.png)
+
+![unity24-2](https://user-images.githubusercontent.com/84532778/130171839-5105ec53-7889-4435-9537-e2332070de84.png)
 
 ---
 
@@ -182,23 +188,23 @@ Download **OpenCV plus Unity** from the **Unity Asset Store**.
 
 https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928?locale=ko-KR
 
-![8](C:\Users\rlawn\OneDrive\바탕 화면\typora-user-images\8.png)
+![unity25](https://user-images.githubusercontent.com/84532778/130171844-5ef654d5-2050-4e84-9ce6-395d9643b8c8.png)
 
 
 
 Install through the Package Manager. It will be used in image-related code.
 
-![1 (6)](C:\Users\rlawn\Downloads\images\images\1 (6).png)
+![unity26](https://user-images.githubusercontent.com/84532778/130171847-dc3d90d4-8a4a-4ecd-a719-cafdbec491cd.png)
 
 ---
 
 ## Check "Allow  'Unsafe' code"
 
-![set2](C:\Users\rlawn\Downloads\images\images\set2.png)
+![unity27](https://user-images.githubusercontent.com/84532778/130171849-36457df1-5c1b-4f10-ab7f-e016d6e8f970.png)
 
-![set3](C:\Users\rlawn\Downloads\images\images\set3.png)
+![unity28](https://user-images.githubusercontent.com/84532778/130171850-f25ec688-f81e-479c-b2fc-32732699deb4.png)
 
-![set4](C:\Users\rlawn\Downloads\images\images\set4.png)
+![unity29](https://user-images.githubusercontent.com/84532778/130171852-57611278-2fe4-4ee6-9e89-f4777ffa0e65.png)
 
 ## 6. Code Script
 
@@ -321,17 +327,23 @@ public class CarAgent : Agent
 
 **Set wheel collider variables**
 
-![image-20210625175448526](https://user-images.githubusercontent.com/59379790/123419111-cfcd3200-d5f4-11eb-9f6b-48206122bc44.png)
+![unity31-1](https://user-images.githubusercontent.com/84532778/130173368-f33b306f-ed6f-4775-9c3e-5cc4a432468f.png)
 
 
 
 **Set Car Agent variables**
 
-![image-20210625175614147](https://user-images.githubusercontent.com/59379790/123419113-d065c880-d5f4-11eb-90df-9256b776fd18.png)
+![unity31](https://user-images.githubusercontent.com/84532778/130171857-ae3a826c-c2ee-478c-9e50-1c874a80f1bc.png)
 
 **The environment and agent are prepared for reinforcement learning, and the agent must set up an observation to receive information from the environment. In this simulation, the camera is attached to the front of the car to set the image of the line to observation. Set up an invisible cube that maintains distance from the car and enter the road conditions (line) at the front of the car, focusing on the cube.**
 
-![image-20210625180239848](https://user-images.githubusercontent.com/59379790/123419116-d0fe5f00-d5f4-11eb-8b9e-874214010599.png)
+![unity32](https://user-images.githubusercontent.com/84532778/130173419-29c89a92-0b1d-4a60-9949-3de14d3739c0.png)
+
+Change the background color in the lighting setting so that the camera input image does not include the color of the background.
+
+![unity32-1](https://user-images.githubusercontent.com/84532778/130171867-d7cc832e-e484-4d55-a8c3-9a3934dfae29.png)
+
+![unity32-2](https://user-images.githubusercontent.com/84532778/130171872-ece5e4e0-b045-4b0a-812a-ff415df1ea99.png)
 
 ```C#
 using UnityEngine;
@@ -368,11 +380,11 @@ public class SmoothFollow : MonoBehaviour
 }
 ```
 
-
-
 **It is adjusted that the resolution of the front camera from 640×480 to 64×48 to export the weight file of the simulation results to the embedded GPU for real-world implementation and to reduce the amount of information, the three-channel BGR image was replaced with grayscale and thresholding black and white. Because this image is used as an observation by the agent, the camera object is set as a child object of car and the camera sensor script is added to the inspector. Observation stack is a value indicating how many observations to perform or how many tasks should be selected, set to 2 to select tasks using the current image and previous step image.**
 
-![image-20210625180542451](https://user-images.githubusercontent.com/59379790/123419120-d196f580-d5f4-11eb-84e8-ac6ab55893fb.png)
+
+
+![unity33](https://user-images.githubusercontent.com/84532778/130171875-73490ebb-0a31-4967-8d52-f1526ac49dee.png)
 
 **To put the binarized image into the agent's observation value, a new quad is created and filmed in camera.**
 
@@ -380,15 +392,15 @@ public class SmoothFollow : MonoBehaviour
 
 ### Overall gameObject in Hierachy
 
-![image-20210625181136259](https://user-images.githubusercontent.com/59379790/123419122-d196f580-d5f4-11eb-8538-340ce0e1df0e.png)
+---
 
-
+![unity34](https://user-images.githubusercontent.com/84532778/130171880-2dd4c1e3-c362-4000-833f-eab03707f3ea.png)
 
 
 
 **It is necessary to set various parameters for learning. First, the learning rate corresponds to the strength of gradient descent updating each step. Decaying this value until max step, then learning converges more stable. Next, the batch size, which is the number of experiences in each iteration of gradient descent, was appropriately adjusted to meet the specifications of the computer. Parameter beta means intensity of entropy normalization, making the policy random. this allows the agent to navigate the action space during training. This value should be adjusted as the entropy consistently decreases alongside increases in reward.**
 
-![image-20210625181252772](https://user-images.githubusercontent.com/59379790/123419123-d22f8c00-d5f4-11eb-9cfb-f99e661b6371.png)
+![unity35](https://user-images.githubusercontent.com/84532778/130171885-02fd9a55-7145-4c5c-8918-2cd1152e04cf.png)
 
 
 
@@ -404,7 +416,7 @@ mlagents-learn params.yaml --run-id=tutorial
 ```
 
 
-![image-20210625181524837](https://user-images.githubusercontent.com/59379790/123419129-d2c82280-d5f4-11eb-99d1-19db988b4e0a.png)
+![unity36](https://user-images.githubusercontent.com/84532778/130171888-86081f60-d07e-4b12-bf1b-d7bf928850b4.png)
 
 
 
@@ -412,7 +424,7 @@ mlagents-learn params.yaml --run-id=tutorial
 
 **The advantage of simulation in unity is that it can speed up learning by copying the agent and environment and performing multiple trainings at the same time. Training by multiple cars may be faster than training by one car, but it is necessary to select an appropriate number of training as memory may be exceeded depending on your own RAM specification.**
 
-![image-20210625181558500](https://user-images.githubusercontent.com/59379790/123419131-d360b900-d5f4-11eb-89b9-b0478b01a903.png)
+![unity37](https://user-images.githubusercontent.com/84532778/130171897-0a6677ef-6edc-4f57-8ae7-17c0f355af31.png)
 
 
 
@@ -423,8 +435,9 @@ mlagents-learn params.yaml --run-id=tutorial
 tensorboard --logdir results --port 6006
 ```
 
-![image-20210625182323737](https://user-images.githubusercontent.com/59379790/123419133-d360b900-d5f4-11eb-87b7-ba1ffc79af2d.png)
+![unity38](https://user-images.githubusercontent.com/84532778/130171900-86a9d065-c69d-4b9d-a468-42ff803032ab.png)
 
 
 
-![image-20210625182338276](https://user-images.githubusercontent.com/59379790/123419134-d3f94f80-d5f4-11eb-899c-a09c22b60a03.png)
+![unity39](https://user-images.githubusercontent.com/84532778/130171901-b30bffe5-2bc0-41af-850c-d6ae90366453.png)
+
