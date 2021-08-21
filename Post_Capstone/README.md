@@ -6,7 +6,7 @@
 
 - AWS에서 제공하는 플랫폼에서 학습한 모델은 AWS DeepRacer 하드웨어에만 적용 가능하며 다양한 환경에 대해서 customize하기가 어렵다.
 
-   Reference: [AWS Deepracer_How to train a model in 15 minutes](https://falktan.medium.com/aws-deepracer-how-to-train-a-model-in-15-minutes-a07ab77fb793,"How to train a model in 15 minutes")
+   Reference: [AWS Deepracer_How to train a model in 15 minutes](https://falktan.medium.com/aws-deepracer-how-to-train-a-model-in-15-minutes-a07ab77fb793)
 
    
 
