@@ -1,6 +1,6 @@
 # post_capstone
 
-**1. DeepRacer_Tutorial**
+### **1. DeepRacer_Tutorial**
 
    이 프로젝트는 AWS에서 제공하는 강화학습 플랫폼을 사용하여 약 18개의 환경변수들을 통해서 Reward function을 다르게 정의하여 PPO, SAC 등의 알고리즘을 학습에 적용시켜 직접 모델을 훈련하여 정해진 트랙을 벗어나지 않고 안정적으로 주행하는 수준으로 학습시키는 것을 목표로한다.
 
@@ -10,7 +10,7 @@
 
    
 
-**2. UNITY 3D_Tutorial**
+### **2. UNITY 3D_Tutorial**
 
    이 프로젝트는 3D 및 2D 비디오 게임의 개발 환경을 제공하는 게임 엔진인Unity를 사용한다. 실제 환경과 유사한 가상환경을 구현하고 강화학습 라이브러리인 ML-agents를 사용하여 PPO 알고리즘 기반의 학습을 진행한다. 최종적으로 카메라로 들어오는 이미지를 인지하며 자율주행 가능한 모델을 만드는 것을 목표로한다.
 
@@ -22,7 +22,7 @@
 
      
 
-**3. Presentation Video**
+### **3. Presentation Video**
 
    Link: [Demo video](https://www.youtube.com/watch?v=10BTBinHHnM)
 
