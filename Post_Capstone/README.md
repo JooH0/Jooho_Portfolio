@@ -23,6 +23,7 @@
 
 
 ### **3. Presentation Video**
+[![image](https://user-images.githubusercontent.com/84532778/131083934-07e389cd-2d5c-41dd-a02b-531bce2d9967.png)](https://www.youtube.com/watch?v=10BTBinHHnM)
 
 - Link: [Demo video](https://www.youtube.com/watch?v=10BTBinHHnM)
 
