@@ -8,7 +8,7 @@ The ultimate goal is to effectively detect any valid lanes, and any other line c
 
 ![image-20210913151007802](https://user-images.githubusercontent.com/84532778/133054441-77586ec3-5d15-4ad4-be20-f5bbcd6a9164.png)
 
----
+
 
 ## **2. Procedure**
 
@@ -68,7 +68,7 @@ The ultimate goal is to effectively detect any valid lanes, and any other line c
 
 - The departure rate is shown in the original video, and the lane changing condition is determined if the departure rate exceeds 25%.
 
----
+
 
 ## **3. Conclusion** 
 
