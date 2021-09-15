@@ -8,7 +8,7 @@
 
 
 
-![image-20210915015958482](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210915015958482.png)
+![image-20210915015958482](https://user-images.githubusercontent.com/84532778/133398084-089da3b2-b779-4631-8a7b-942ca90a1290.png)
 
 
 
@@ -16,18 +16,16 @@
 
 ### 2.1 Object Detection(YOLOv3)
 
-![image-20210915023002501](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210915023002501.png)
+![image-20210915023002501](https://user-images.githubusercontent.com/84532778/133398167-bba71ce0-0440-4d34-ac68-3d4826333a42.png)
 
-
-
-![image-20210915023031933](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210915023031933.png)
+![image-20210915023031933](https://user-images.githubusercontent.com/84532778/133398233-0f6a97b6-f476-4849-ae2c-0615f5f9e9b7.png)
 
 - License plate detection model
 - Crop the detected Images
 
 ### **2.1 Preprocessing**
 
-![image-20210915023122863](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210915023122863.png)
+![image-20210915023122863](https://user-images.githubusercontent.com/84532778/133398276-1e05383f-8bcb-49a6-9291-463d22d8aaa3.png)
 
 1. Grayscale
 
@@ -45,13 +43,13 @@
 
 ### **2.3 OCR (Py-tesseract)**
 
-![image-20210915025301284](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210915025301284.png)
+![image-20210915025301284](https://user-images.githubusercontent.com/84532778/133398316-71d60592-a0b5-4989-9037-ebaf81e9e5d0.png)
 
 - Single text line (일반적인 차량 번호판 Text 형태)
 
   
 
-![image-20210915035709104](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210915035709104.png)
+![image-20210915035709104](https://user-images.githubusercontent.com/84532778/133398369-c932b0b4-cc15-43f4-985a-42dd92a387c9.png)
 
 - 한글의 첨자 부분의 인식률이 낮게 나타남
 
@@ -65,11 +63,11 @@
 
 ## **3. Conclusion** 
 
-![image-20210915030632987](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210915030632987.png)
+![image-20210915030632987](https://user-images.githubusercontent.com/84532778/133398415-8e69b750-adc8-42e6-8618-d048ec25f9e4.png)
 
 
 
-![image-20210915031710617](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210915031710617.png)
+![image-20210915031710617](https://user-images.githubusercontent.com/84532778/133398450-daf8e0df-57f9-4a79-aac8-955311f87c2d.png)
 
 이번 프로젝트를 진행하면서 LPR을 수행하는데 주로 사용되었던 YOLO와 OCR의 원리에 대해서 자세
 히 알아볼 수 있는 시간이었다. YOLO의 원리인 Grid 생성을 통한 Single convolutional network 구조
